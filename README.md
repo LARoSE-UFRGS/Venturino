@@ -1,4 +1,4 @@
-# Venturino: Open-source Hardware platform for educational purposes
+# Venturino: an Arduino-Based Open-Hardware platform for educational purposes
 
 About this repo: Schematics, PCB layouts and Software libs.
 
